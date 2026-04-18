@@ -1,0 +1,8 @@
+# Ignore Visual Studio workspace and build artifacts
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Designer file is tracked so UI will be included in the repo
